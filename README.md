@@ -1,4 +1,4 @@
-<img src="https://www.dropbox.com/s/khrvtdlqiy0dqvv/TMGNew1.png?dl=0">
+
 
 ### Welcome to my Profile! 👋
 
