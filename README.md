@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on Python projects that will appear on GitHub soon! :)
-- 📖 I’m currently learning Tableau.
+- 📖 I’m currently learning Tableau & Python.
 - 👯 I’m looking to collaborate on anything I can contribute to. :)
 - 💬 My LinkedIn URL is https://www.linkedin.com/in/tinamgonzales44
 - 💬 My Resume URL is https://www.dropbox.com/s/4s9ko9g55poszyz/Tina_Gonzales_MBA_Resume_V1-11.pdf?dl=0
